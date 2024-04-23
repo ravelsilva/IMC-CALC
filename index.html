@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>DOM</title>
+  </head>
+  <body>
+    <div class="form-container">
+      <h1>Calculadora IMC</h1>
+      <p>Digite suas informações abaixo e descubra como está a sua saúde.</p>
+      <form id="card">
+        <div class="height">
+          <label for="altura">Altura em cm</label>
+          <input type="number" name="altura" id="altura" />
+        </div>
+        <div class="weight">
+          <label for="peso">Peso</label>
+          <input type="number" name="peso" id="peso" />
+        </div>
+
+        <button class="btn">Calcular</button>
+
+        <div class="result">
+          <label for="resultado">Resultado</label>
+          <input type="text" name="resultado" id="resultado" disabled />
+        </div>
+      </form>
+    </div>
+    <!-- ALTURA -->
+    <!-- PESO -->
+    <!-- RESULTADO -->
+    <script src="script.js"></script>
+  </body>
+</html>
