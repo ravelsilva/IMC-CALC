@@ -1,5 +1,9 @@
 # Calculadora de IMC
 
+![image](https://github.com/ravelsilva/IMC-CALC/assets/79286762/1a846c5e-f2c4-48fc-af54-9caa6914c4e1)
+
+
+
 Esta é uma simples calculadora de Índice de Massa Corporal (IMC) desenvolvida utilizando HTML, CSS e JavaScript.
 
 ## Como funciona
